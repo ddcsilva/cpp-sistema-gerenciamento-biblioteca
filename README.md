@@ -2,17 +2,6 @@
 
 Este projeto é um sistema simples de gerenciamento de biblioteca implementado em C++. Ele permite criar livros, gerenciar empréstimos e devoluções, e atualizar o status de disponibilidade dos livros.
 
-## Estrutura do Projeto
-
-SistemaBiblioteca/
-|-- src/
-| |-- Livro.h
-| |-- Livro.cpp
-| |-- Biblioteca.h
-| |-- Biblioteca.cpp
-| |-- main.cpp
-|-- SistemaBiblioteca.sln (arquivo de solução do Visual Studio)
-
 ## Como usar
 
 1. Clone o repositório.
