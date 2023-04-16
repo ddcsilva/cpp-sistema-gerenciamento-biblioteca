@@ -1,32 +1,32 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# Arquivos e diretórios do Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*_i.c
+*_p.c
+*.ilk
+*.meta
 *.obj
-
-# Precompiled Headers
-*.gch
 *.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Arquivos de saída
+bin/
+obj/
